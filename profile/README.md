@@ -1,4 +1,4 @@
-<h1 align="center">Who are we?</h1>
+<h1 align="center">Who Are We?</h1>
 <p align="center">We are a small modding team looking to make Minecraft mods that are fun and fit the world of Minecraft.</p>
 
 <p align="center">
